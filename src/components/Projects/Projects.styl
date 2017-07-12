@@ -1,0 +1,47 @@
+.projects
+  height 100%
+  display grid
+  grid-template-columns 200px auto
+
+@media (max-width: 600px)
+  .projects
+    grid-template-columns auto
+
+
+.Current-collab {
+  background-color: #DC5853;
+  padding: 20px;
+  flex: 1;
+}
+
+.project-contianer
+  display flex
+  
+.project
+  max-width 600px
+  margin 0 auto
+  padding 15px
+
+@import '../styles/*'
+
+.project-list
+  background-color orange
+  display flex
+  flex-direction column
+  padding 20px
+
+.project-list-items
+  margin 0
+  list-style-type none
+  padding 0
+
+.project-list-item {
+  margin: 10px 0;
+}
+.project-list-item a {
+  text-decoration: none;
+  color: #ffffff;
+}
+.project-list-item a:hover {
+  text-decoration: underline;
+}

@@ -1,0 +1,36 @@
+{
+  "Making Your First Webapp with React": {
+    "name": "Making Your First Webapp with React",
+    "day": "Day 11",
+    "url": "https://tutorialzine.com/2015/04/first-webapp-react",
+    "repos": [
+      {
+        "user": "bantuist",
+        "url": "https://github.com/bantuist/placemarks",
+        "demo": "https://ns-qglfabauor.now.sh/"
+      },
+      {
+        "user": "example",
+        "url": "https://github.com/USER/REPO",
+        "demo": "example.com/"
+      }
+    ]
+  },
+  "Build an App with Vue.js": {
+    "name": "Build an App with Vue.js",
+    "day": "Day 13",
+    "url": "https://scotch.io/tutorials/build-an-app-with-vue-js-a-lightweight-alternative-to-angularjs",
+    "repos": [
+      {
+        "user": "bantuist",
+        "url": "https://github.com/bantuist/vue-event-board",
+        "demo": "https://bantuist.github.io/vue-event-board/#"
+      },
+      {
+        "user": "example",
+        "url": "https://github.com/USER/REPO",
+        "demo": "example.com/"
+      }
+    ]
+  }
+}
